@@ -1,2 +1,2 @@
 # idiNadi
-Things I'm made to do before getting started
+Things I'm doing before getting started
